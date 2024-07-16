@@ -15,5 +15,5 @@ Basic pipeline:
 
 MemGaze Pipeline:
 1. <MEMGAZE_PATH>/install/bin/memgaze-inst va
-2. <MEMGAZE_PATH>/install/bin/memgaze-run -p 100000 memgaze-va/va-memgaze 10000000bb
+2. <MEMGAZE_PATH>/install/bin/memgaze-run -p 100000 memgaze-va/va-memgaze 10000000
 3. <MEMGAZE_PATH>/install/bin/memgaze-xtrace -i va-memgaze-trace-b8192-p100000/
