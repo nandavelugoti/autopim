@@ -11,4 +11,3 @@ vector1 = [x for x in range(vec_size)]
 vector2 = [x for x in range(vec_size)]
 result = vector_addition(vector1, vector2)
 print(f'Vector addition finished on {len(result)} elements')
-

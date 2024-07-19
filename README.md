@@ -13,3 +13,8 @@ Basic pipeline:
 3. trace -> anlyzer -> memory-intensity?
 4. based on previous step we make offload decision
 
+Build:
+1. run `nix-shell`
+
+References:
+- cython usage: https://stackoverflow.com/questions/5105482/compile-main-python-program-using-cython
